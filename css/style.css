@@ -2,3 +2,8 @@
 body{
     background-color: rgb(218, 218, 218);
 }
+
+/* add white bckgr col in header */
+header{
+    background-color: white;
+}
