@@ -69,6 +69,9 @@ main{
 /* end of buttons */
 
 /* formatting list */
+#list-container{
+    padding-left: 3%;
+}
 ul{
     list-style-position: inside;
     margin: 0;
@@ -94,6 +97,7 @@ li{
     line-height: 19px;
     font-size: 17px;
     font-weight: 500;
+    margin:8px auto;
 }
 
 .task{
@@ -104,4 +108,5 @@ li{
     border: 1px solid black;
     text-align: center;
     vertical-align: middle;
+    margin-right: 9px;
 }
