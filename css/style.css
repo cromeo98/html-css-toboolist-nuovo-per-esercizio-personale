@@ -39,6 +39,7 @@ main{
 /* formatting button container */
 #button-container{
     padding: 12px 3% 7px;
+    border-bottom: 1px solid rgb(233, 233, 233);
 }
 
 /* formatting buttons */
