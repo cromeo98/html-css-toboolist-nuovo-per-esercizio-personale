@@ -97,7 +97,7 @@ li{
     line-height: 19px;
     font-size: 17px;
     font-weight: 500;
-    margin:8px auto;
+    padding:8px 0;
 }
 
 .task{
@@ -105,8 +105,17 @@ li{
     border-radius: 50%;
     height: 19px;
     width: 19px;
-    border: 1px solid black;
     text-align: center;
     vertical-align: middle;
     margin-right: 9px;
+}
+
+.to-do{
+    border: 1px solid rgb(255, 106, 106);
+    color: rgb(255, 106, 106);
+}
+
+.done{
+    border: 1px solid lightgreen;
+    color: lightgreen;
 }
