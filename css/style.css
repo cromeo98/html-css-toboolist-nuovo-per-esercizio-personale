@@ -40,3 +40,29 @@ main{
 #button-container{
     padding: 12px 3% 7px;
 }
+
+/* formatting buttons */
+.add{
+    background-color:white;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    box-sizing: content-box;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 5px 8px;
+    cursor: -webkit-grab; cursor: grab;
+}
+
+#add-task{
+    color: white;
+    background-color: rgb(85, 190, 255);
+    border-color:rgb(85, 190, 255);
+}
+
+#add-section{    
+    color: lightgray;
+    background-color: white;
+    border-color: lightgray;
+}
+/* end of buttons */
