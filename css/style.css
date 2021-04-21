@@ -34,6 +34,8 @@ header{
 main{
     background-color: white;
     margin: 40px 9%;
+    border-radius: 5px;
+
 }
 
 /* formatting button container */
