@@ -119,3 +119,48 @@ li{
     border: 1px solid lightgreen;
     color: lightgreen;
 }
+
+.classificazione{
+    display: inline-block;
+    height: 20px;
+    line-height: 20px;
+    border:1px solid ;
+    border-radius: 10px;
+    margin-left: 7px;
+    box-sizing: content-box;
+    padding: 0 10px;
+    font-size: 9.5px;
+    font-weight: 600;
+    vertical-align: baseline;
+    color: white;
+}
+
+.editorial{
+    background-color: rgb(85, 190, 255);
+    border-color: rgb(85, 190, 255);
+}
+
+.q1-goals{
+    background-color: rgb(166, 135, 250);
+    border-color:  rgb(166, 135, 250);
+}
+
+.recruiting{
+    background-color: rgb(102, 199, 139);
+    border-color:  rgb(102, 199, 139);
+}
+
+.mobile{
+    background-color: orange;
+    border-color:  orange;
+}
+
+.website{
+    background-color: rgb(231, 23, 93);
+    border-color:  rgb(231, 23, 93); 
+}
+
+.sales{
+    background-color: rgb(148, 223, 79);
+    border-color:  rgb(148, 223, 79); 
+}
