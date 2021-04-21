@@ -67,3 +67,12 @@ main{
     border-color: lightgray;
 }
 /* end of buttons */
+
+/* formatting list */
+li{
+    list-style:none;
+}
+
+.list-section::before{
+    content: '\23F7';
+}
