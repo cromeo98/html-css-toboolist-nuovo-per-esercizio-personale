@@ -5,7 +5,8 @@ body{
     padding: 0;
 }
 
-/* add white bckgr col in header */
+/* formatting header */
 header{
     background-color: white;
+    height: 100px;
 }
