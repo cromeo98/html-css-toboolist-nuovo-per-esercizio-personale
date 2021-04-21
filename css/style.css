@@ -29,3 +29,9 @@ header{
     font-weight: 600;
     vertical-align: middle;
 }
+
+/* formatting contenitore corpo pg */
+#corpo-di-pagina{
+    background-color: white;
+    margin: 40px 9%;
+}
