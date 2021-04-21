@@ -35,3 +35,8 @@ main{
     background-color: white;
     margin: 40px 9%;
 }
+
+/* formatting button container */
+#button-container{
+    padding: 12px 3% 7px;
+}
